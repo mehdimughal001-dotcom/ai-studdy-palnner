@@ -1,0 +1,27 @@
+MY PERSONALIZED STUDY PLAN
+==============================
+Student name: mehdi
+Learning goal: study
+Study days per week: 7
+Study hours per day: 15
+Total study hours per week: 105
+
+YOUR WEEKLY SCHEDULE
+------------------------------
+Monday (15 hour(s)): Learn a new topic and take notes
+Tuesday (15 hour(s)): Practice the topic with examples
+Wednesday (15 hour(s)): Review your notes and explain the topic in your own words
+Thursday (15 hour(s)): Complete a small exercise or task
+Friday (15 hour(s)): Focus on a challenging part of the subject
+Saturday (15 hour(s)): Review the week's learning and practice
+Sunday (15 hour(s)): Take a short self-test and plan what to learn next
+
+STUDY TIPS
+------------------------------
+1. Put your phone away during focused study time.
+2. Take a short break between study sessions.
+3. Practice what you learn instead of only reading.
+4. Review your progress at the end of each week.
+5. Adjust the plan when your schedule or goal changes.
+
+Keep going—small, regular steps lead to progress!
